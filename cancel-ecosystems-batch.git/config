@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://alm-latam-assurance.dev.echonet/git/scm/mop2/cancel-ecosystems-batch.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
